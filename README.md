@@ -1,6 +1,6 @@
-## Ember Website
+## Ember Website Fork
 
-The website for the Ember.js project.
+Forked in order to tag the 1.0.0-pre2 API docs.
 
 ### Contributing
 
