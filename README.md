@@ -1,6 +1,9 @@
 ## Ember Website Fork
 
-Forked in order to tag the 1.0.0-pre2 API docs.
+A fork with the v1.0.0-pre.2 API docs tagged.
+
+To access:
+git checkout v1.0.0-pre.2
 
 ### Contributing
 
